@@ -69,6 +69,8 @@ v
 ### Backend + Frontend (Single Command)
 
 ```bash
+git clone https://github.com/AbhiS1310/TechCorp_RAG_ChatBot.git
+cd TechCorp_RAG_ChatBot
 uv sync
 cp .env.example .env
 cd frontend
