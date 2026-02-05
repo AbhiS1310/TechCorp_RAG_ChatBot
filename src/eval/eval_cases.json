@@ -1,0 +1,12 @@
+[
+  {
+    "query": "Can I work fully remotely?",
+    "expected_source": "policy_v2_2024.txt",
+    "expected_contains": "remote"
+  },
+  {
+    "query": "Can I work remotely this Friday?",
+    "expected_source": "policy_v2_2024.txt",
+    "expected_contains": "one day"
+  }
+]

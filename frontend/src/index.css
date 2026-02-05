@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600;700&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "IBM Plex Sans", sans-serif;
+  background-color: #f4f1ea;
+}
+
+body {
+  margin: 0;
+}

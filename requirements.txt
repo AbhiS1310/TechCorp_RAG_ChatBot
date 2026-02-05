@@ -1,0 +1,11 @@
+fastapi==0.115.8
+uvicorn==0.30.6
+langchain==0.3.19
+langchain-core==0.3.42
+langchain-groq==0.2.5
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+numpy==1.26.4
+pydantic==2.9.2
+python-multipart==0.0.9
+python-dotenv==1.0.1
